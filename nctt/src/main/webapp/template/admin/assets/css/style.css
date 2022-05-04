@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.ck-editor__editable_inline {
+    height: 550px !important;
+    width:710px !important;
+}
+#toolbar-container {
+    width: 710px !important;
+}
+#editor {
+	background: var(--ck-sample-color-white);
+	box-shadow: 2px 2px 2px rgba(0,0,0,.1);
+	border: 1px solid #DFE4E6;			
+	border-bottom-color: #cdd0d2;
+	border-right-color: #cdd0d2;
+}
